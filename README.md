@@ -1,6 +1,6 @@
 #CRUD em SPA
 
-Projeto de CRUD para cadastro de clientes, foi utilizado Angular Material e elemntos nativos do Angular.
+Projeto de CRUD para cadastro de clientes, foi utilizado Angular Material e elementos nativos do Angular.
 
 Nesse projeto temos um componente principal e três componentes genéricos.
 
