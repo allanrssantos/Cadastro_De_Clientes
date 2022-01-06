@@ -1,3 +1,13 @@
+#CRUD em SPA
+
+Projeto de CRUD para cadastro de clientes, foi utilizado Angular Material e elemntos nativos do Angular.
+
+Nesse projeto temos um componente principal e três componentes genéricos.
+
+Foi utilizado interpolação, property binding, event binding, diretivas, event emitter e observables.
+
+O projeto consome uma API rest local, via JSON Server, ao iniciar a aplicação inicie tambem o JSON Server: `json-server --watch db.json`.
+
 # Cadastro
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
