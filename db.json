@@ -1,26 +1,26 @@
 {
-    "Clientes" : [
-        { 
-          "id" : 1,
-          "nome" : "Allan Santos",
-          "cpf" : 12345678910,
-          "endereco" : "Rua Osasco, 189",
-          "email" : "allan@allan.com.br",
-          "email2" : "allan2@allan2.com.br",
-          "telefone" : 11912345678,
-          "telefone2" : 11987654321,
-          "dataNascimento" : "21061980"
-        },
-        { 
-            "id" : 2,
-            "nome" : "Camilla Santos",
-            "cpf" : 12345678910,
-            "endereco" : "Rua Osasco, 189",
-            "email" : "allan@allan.com.br",
-            "email2" : "allan2@allan2.com.br",
-            "telefone" : 11912345678,
-            "telefone2" : 11987654321,
-            "dataNascimento" : "21061980"
-        }
-   ]
+  "Clientes": [
+    {
+      "id": 1,
+      "nome": "Allan Santos",
+      "cpf": 12345678910,
+      "endereco": "Rua Osasco, 189",
+      "email": "allan@allan.com.br",
+      "email2": "allan2@allan2.com.br",
+      "telefone": 11912345678,
+      "telefone2": 11987654321,
+      "dataNascimento": "21061980"
+    },
+    {
+      "id": 2,
+      "nome": "Camilla Santos",
+      "cpf": 12345678910,
+      "endereco": "Rua Osasco, 189",
+      "email": "allan@allan.com.br",
+      "email2": "allan2@allan2.com.br",
+      "telefone": 11912345678,
+      "telefone2": 11987654321,
+      "dataNascimento": "21061980"
+    }
+  ]
 }

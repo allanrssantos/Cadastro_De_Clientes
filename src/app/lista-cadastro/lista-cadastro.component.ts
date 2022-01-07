@@ -9,6 +9,10 @@ import { clientesService } from '../Services/clientesservices';
 })
 export class ListaCadastroComponent implements OnInit {
 
+  displayedColumns: string[] = ['nome', 'cpf', 'email','telefone', 'dataNascimento','acao'];
+  dataSource = Clientes;
+
+  
   clientes: Clientes[] = [];
 
   constructor(
