@@ -1,4 +1,4 @@
-#CRUD em SPA
+# CRUD em SPA
 
 Projeto de CRUD para cadastro de clientes, foi utilizado Angular Material e elementos nativos do Angular.
 
