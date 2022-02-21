@@ -36,7 +36,7 @@
       <th mat-header-cell *matHeaderCellDef> Ação </th>
       <td mat-cell *matCellDef="let element">
         <a mat-raised-button color="primary" [routerLink]="['', 'cadastro', element.id, 'editar']">Editar</a>
-        <a mat-raised-button color="warn" [routerLink]="['', 'cadastro', element.id, 'deletar']" onclick="alert('Todos os dados serão apagados!')">Deletar</a>
+        <a mat-raised-button color="warn" [routerLink]="['', 'cadastro', element.id, 'deletar']" onclick="alert('Todos os dados serão apagados!')" style="margin-left: 4px;">Deletar</a>
        </td> 
     </ng-container>
   
