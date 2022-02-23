@@ -7,7 +7,7 @@ export class Clientes {
   email2?: string;
   telefone?: string;
   telefone2?: string;
-  dataNascimento?: string;
+  dataNascimento: string;
   acao?: string;
 
 }

@@ -11,7 +11,7 @@ import { Clientes } from '../Models/clientes';
 })
 export class clientesService {
     
-    private apiPath: string = "http://localhost:3000/Clientes";
+    private apiPath: string = "http://localhost:3000/Clientes/";
 
     private http: HttpClient;
 
