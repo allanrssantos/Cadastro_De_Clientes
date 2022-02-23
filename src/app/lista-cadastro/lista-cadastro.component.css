@@ -1,0 +1,9 @@
+th.mat-header-cell {
+    font-weight: bold;
+    color: black;
+}
+
+tr.mat-header-row {
+    height: 56px;
+    background-color: gainsboro;    
+}
