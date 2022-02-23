@@ -21,6 +21,17 @@
       "telefone": 11912345678,
       "telefone2": 11987654321,
       "dataNascimento": "21061980"
+    },
+    {
+      "nome": "Rafael de Oliveira Santos",
+      "cpf": "65498732182",
+      "email": "rafa@rafa.com",
+      "email2": "rafa2@rafa2.com",
+      "telefone": "11912345678",
+      "telefone2": "11954634171",
+      "endereco": "Rua Marte, 123 - Barueri - São Paulo ",
+      "dataNascimento": "14052012",
+      "id": 3
     }
   ]
 }
