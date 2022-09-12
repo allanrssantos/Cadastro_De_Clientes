@@ -9,6 +9,7 @@
   import localePT from '@angular/common/locales/pt';
   import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
   import {MatButtonModule} from '@angular/material/button';
+  import {MatFormFieldModule} from '@angular/material/form-field';
 
   import { NgxMaskModule, IConfig } from 'ngx-mask';
 
@@ -37,7 +38,8 @@
                 NgxMaskModule.forRoot(),
                 BrowserAnimationsModule,
                 MatTableModule,
-                MatButtonModule
+                MatButtonModule,
+                MatFormFieldModule
     ],
     providers: [],
     bootstrap: [AppComponent]
