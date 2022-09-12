@@ -1,28 +1,6 @@
 {
   "Clientes": [
     {
-      "id": 1,
-      "nome": "Allan Santos",
-      "cpf": 12345678910,
-      "endereco": "Rua Osasco, 189",
-      "email": "allan@allan.com.br",
-      "email2": "allan2@allan2.com.br",
-      "telefone": 11912345678,
-      "telefone2": 11987654321,
-      "dataNascimento": "21061980"
-    },
-    {
-      "id": 2,
-      "nome": "Camilla Santos",
-      "cpf": 12345678910,
-      "endereco": "Rua Osasco, 189",
-      "email": "allan@allan.com.br",
-      "email2": "allan2@allan2.com.br",
-      "telefone": 11912345678,
-      "telefone2": 11987654321,
-      "dataNascimento": "21061980"
-    },
-    {
       "nome": "Rafael Santos",
       "cpf": "11111111111",
       "email": "allan@email.com",
@@ -32,6 +10,17 @@
       "endereco": "Rua Marte, 123 - Barueri - São Paulo ",
       "dataNascimento": "01091999",
       "id": 3
+    },
+    {
+      "nome": "ALLAN ROGERIO SOARES DOS SANTOS",
+      "cpf": "22222222222",
+      "email": "allan_seg@hotmail.com",
+      "email2": "allan_soares@me.com",
+      "telefone": "11954634171",
+      "telefone2": "11954634171",
+      "endereco": "Rua Osasco",
+      "dataNascimento": "21061980",
+      "id": 4
     }
   ]
 }

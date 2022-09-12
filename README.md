@@ -6,7 +6,7 @@ Nesse projeto temos um componente principal e três componentes genéricos.
 
 Foi utilizado interpolação, property binding, event binding, diretivas, event emitter e observables.
 
-O projeto consome uma API rest local, via JSON Server, ao iniciar a aplicação inicie tambem o JSON Server: `json-server --watch db.json`.
+O projeto consome uma API rest local, via JSON Server, ao iniciar a aplicação inicie tambem o JSON Server: `ngx json-server --watch db.json`.
 
 # Cadastro
 

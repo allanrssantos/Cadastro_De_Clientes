@@ -1,3 +1,7 @@
+table.mat-table{
+  width: 100%;
+}
+
 th.mat-header-cell {
     font-weight: bold;
     color: black;
@@ -5,5 +9,5 @@ th.mat-header-cell {
 
 tr.mat-header-row {
     height: 56px;
-    background-color: gainsboro;    
+    background-color: gainsboro;
 }
